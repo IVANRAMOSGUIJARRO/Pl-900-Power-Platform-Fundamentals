@@ -1,4 +1,4 @@
-| Práctica (7,5 horas)                          |                                                              |
+| Práctica (7,5 horas).                         |                                                              |
 | --------------------------------------------- | ------------------------------------------------------------ |
 | Módulo 1:  Introducción a Power Platform      | N/A                                                          |
 | Módulo 2: Introducción a Microsoft  Dataverse | 01 - Laboratorio: Modelado de datos                          |
